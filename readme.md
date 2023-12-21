@@ -3,4 +3,4 @@
 * autor: Jesus Gomez
 * Modulo: Lenguajes de Marcas
 
-[web de ejemplo](index.html)
+[web de ejemplo](https://jesusga20.github.io/repaso_web/)
