@@ -1,6 +1,6 @@
 # Ejemplo de publicacion en Github Pages
 
-* autor: Paco López
+* autor: Jesus Gomez
 * Modulo: Lenguajes de Marcas
 
 [web de ejemplo](index.html)
